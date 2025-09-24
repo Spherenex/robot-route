@@ -68,6 +68,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    /* margin-left: 350px; */
 }
 
 .video-feed-container img {

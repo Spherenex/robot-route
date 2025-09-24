@@ -400,13 +400,13 @@ const Sidebar = ({
     const [hoveredItem, setHoveredItem] = useState(null);
 
     const navigationItems = [
-        // {
-        //     id: 'dashboard',
-        //     name: 'Dashboard',
-        //     description: 'System overview',
-        //     icon: '📊',
-        //     badge: null
-        // },
+        {
+            id: 'dashboard',
+            name: 'Dashboard',
+            description: 'System overview',
+            icon: '📊',
+            badge: null
+        },
         {
             id: 'route-creation',
             name: 'Route Creation',
